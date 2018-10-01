@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="false.svg">resources/static/img/vector/false.svg</file>
+        <file alias="plus.svg">resources/static/img/vector/plus.svg</file>
+        <file alias="right.svg">resources/static/img/vector/right.svg</file>
+        <file alias="free_space.svg">resources/static/img/vector/free_space.svg</file>
+        <file alias="lllll.svg">resources/static/img/vector/lllll.svg</file>
+        <file alias="rrlrr.svg">resources/static/img/vector/rrlrr.svg</file>
+        <file alias="sslss.svg">resources/static/img/vector/sslss.svg</file>
+        <file alias="rrrrr.svg">resources/static/img/vector/rrrrr.svg</file>
+        <file alias="llrll.svg">resources/static/img/vector/llrll.svg</file>
+        <file alias="ssrss.svg">resources/static/img/vector/ssrss.svg</file>
+        <file alias="star.svg">resources/static/img/vector/star.svg</file>
+        <file alias="star_u_d.svg">resources/static/img/vector/star_up_and_down.svg</file>
+    </qresource>
+</RCC>

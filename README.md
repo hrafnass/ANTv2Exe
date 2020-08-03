@@ -10,7 +10,7 @@
 
 ## General Info
 ***
-ANTv2 is a game for measuring the reaction time. The documentation and the game setting can be found in the readme folders of the 32bit(https://github.com/hrafnass/Game/tree/master/64bit/Readme) and 64bit(https://github.com/hrafnass/Game/tree/master/64bit/Readme) game.
+ANTv2 is a game for measuring the reaction time. The documentation and the game setting can be found in the readme folders of the [32bit](https://github.com/hrafnass/Game/tree/master/64bit/Readme) and [64bit](https://github.com/hrafnass/Game/tree/master/64bit/Readme) game.
 
 ## Used Technologies
 ***
@@ -38,4 +38,4 @@ Avast could block the execution of the ANTv2 game through the Behavior shield.
 
 ## License
 ***
-Licensed under GPLv3(https://github.com/hrafnass/Game/blob/master/LICENSE)
+Licensed under [GPLv3](https://github.com/hrafnass/Game/blob/master/LICENSE)

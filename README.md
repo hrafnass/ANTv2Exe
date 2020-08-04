@@ -11,6 +11,8 @@
 ## General Info
 ***
 * About the Game: Antv2 is a reasearch program with the purpose to collect and analyze informations about human reaction time. The recorded data and the evaluation are saved in a csv file named after the test person. The program is split up in two phases: the Main Window and the Game Window.
+
+### Phases
     1. In the Main Window you set all necessary informatons proband. You can find more detailed informations at [doc/Main.md](../doc/Main.md) 
     2. In the Game Window you first get an exercise with extra informations, about your reaction. You can find more detailed informations at [doc/Game.md](../doc/Game.md)
 * Researched Data: The use of the program is free and the data is only stored local at the user, but it would be nice if you could upload your data at ... . 
@@ -27,8 +29,8 @@
 ### Windows
 * System Requirement :
     1. Antv2 is build for Windows 10:
-        1. [32bit](https://github.com/hrafnass/Game/tree/master/bin/32bit/Readme)
-        2. [64bit](https://github.com/hrafnass/Game/tree/master/64bit/Readme)
+        1. [32bit](bin/32bit)
+        2. [64bit](bin/64bit)
     2. All needed dlls for C++- and Qt5-libraries are delivered with the program.
     3. With the Source Code you can rebuild the Game for other OS versions and other OS.
 * Installation :
@@ -43,4 +45,4 @@ Avast could block the execution of the ANTv2 game through the Behavior shield.
 * [ANTv2](https://github.com/hrafnass/ANTv2)
 
 ## License
-Licensed under [GPLv3](https://github.com/hrafnass/Game/blob/master/LICENSE)
+Licensed under [GPLv3](LICENSE)

@@ -16,11 +16,11 @@ In the times between the combinations first appearce a plus sign in the screen c
 ## Excercise Game
 In the trainings part you have only 12 trials and smileys indicate, whether pressed the right or wrong key.
 
-*You pressed the right key:
+You pressed the right key:
 
 ![right](images/svg/right.svg)
 
-*You pressed the wrong key:
+You pressed the wrong key:
 
 ![wrong](images/svg/false.svg)
 

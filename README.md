@@ -40,7 +40,7 @@
 ## Possible Problems
 Avast could block the execution of the ANTv2 game through the Behavior shield.
 
-## Source CodeEditing Game_README.md at master · hrafnass_GameEditing Game_README.md at master · hrafnass_Game
+## Source Code
 * [Qt5](https://github.com/hrafnass/qt5.12.2_build)
 * [ANTv2](https://github.com/hrafnass/ANTv2)
 

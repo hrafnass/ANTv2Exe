@@ -10,19 +10,19 @@
 
 ## General Info
 ***
-* About the Game: Antv2 is a reasearch program with the purpose to collect and analyze informations about human reaction time. The recorded data and the evaluation are saved in a csv file named after the test person. The program is split up in two phases: the Main Window and the Game Window.
+* About Antv2Exe: It is a reasearch program with the purpose to collect and analyze informations about human reaction time. The recorded data and the evaluation are saved in a csv file named after the test person. The program is split up in two phases: the Main Window and the Game Window.
 
 ### Phases
-* In the Main Window you set all necessary informatons proband. You can find more detailed informations at [Main.md](/doc/Main.md) 
+* In the Main Window you set all necessary informatons about the proband. You can find more detailed informations at [Main.md](/doc/Main.md) 
 * In the Game Window you first get an exercise with extra informations, about your reaction. You can find more detailed informations at [Game.md](doc/Game.md)
-* Researched Data: The use of the program is free and the data is only stored local at the user, but it would be nice if you could upload your data at ... . 
+* Researched Data: The use of the program is free and the data is only stored local at the user. 
 
 
 ## Used Technologies
 
-* MinGW : Version
+* MinGW : Version 4.3.4
 * Qt5 : Version 5.12.2
-* C++ : Version
+* C++ : Version 11
 
 ## Installation & System Requirement
 ***
@@ -41,8 +41,7 @@
 Avast could block the execution of the ANTv2 game through the Behavior shield.
 
 ## Source Code
-* [Qt5](https://github.com/hrafnass/qt5.12.2_build)
-* [ANTv2](https://github.com/hrafnass/ANTv2)
+* [ANTv2 & Qt5](https://github.com/hrafnass/ANTv2)
 
 ## License
 Licensed under [GPLv3](LICENSE)

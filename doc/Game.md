@@ -9,12 +9,12 @@ In the times between the combinations first appearce a plus sign in the screen c
 
 ![plus sign](images/svg/plus.svg)
 
- You have to be fixated on it so long you can see it. After the plus sign, zero to two stars could appear at the window, followed by the arrow-blank-combination. It's also called a trial (stars + arrows).
+ You have to be fixated on it so long you can see it. After the plus sign, zero to two stars could appear at the window, followed by the arrow-blank combination. The combination of the plus sign, the stars and the star-blank combination is called a trial.
  
  ![start_sign](images/svg/star.svg)
 
 ## Exercise Game
-In the trainings part you have only 12 trials. The smileys indicate, whether pressed the right or wrong key.
+In the trainings part you have only 12 trials. The smileys indicate, whether pressed the right or wrong key. You can retry the exercise so oft you want. The result isn't saved.
 
 You pressed the right key:
 
@@ -27,4 +27,4 @@ You pressed the wrong key:
 After you have played the 12 trials, you can rerun the exercise game, start the researche game or quit the program.
 
 ## Researche
-The researche game has three runs. A run has 96 trials. After every run you can take a break. In the end, all measured and calculated values are saved in a csv-file named after the test person and the actuell date (also with seconds).
+The researche game has two runs. A run consist of 96 trials. After every run you can take a break. In the end, all measured and calculated values are saved in a csv-file named after the test person and the actuell date (also with seconds).

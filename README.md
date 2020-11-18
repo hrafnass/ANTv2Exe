@@ -13,7 +13,7 @@
 * About Antv2Exe: It is a reasearch program with the purpose to collect and analyze informations about human reaction time. The recorded data and the evaluation are saved in a csv file named after the test person. The program is split up in two phases: the Main Window and the Game Window.
 
 ### Phases
-* In the Main Window you set all necessary informatons about the proband. You can find more detailed informations at [Main.md](/doc/Main.md) 
+* In the Main Window you set all necessary informatons about the proband.
 * In the Game Window you first get an exercise with extra informations, about your reaction. You can find more detailed informations at [Game.md](doc/Game.md)
 * Researched Data: The use of the program is free and the data is only stored local at the user. 
 
